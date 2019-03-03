@@ -5,49 +5,48 @@ Name
 
 u_ArabXBow
 {
-	"Increased armor of Arabic Swordsmen against crossbows"
+	"Améliorer la defense des spadassins arabes contre les arbalètes"
 }
 
 u_arabxbow_descr
 {
-	" - Arabic Swordsmen only die after 6 crossbow hits intead of 3"
+	" - Spadassins Arabes résistent 6 tirs de l'arbalète au lieu de 3"
 }
 
 u_ArabWall
 {
-	"Arabic Swordsmen destroy walls faster"
+	"Spadassins Arabes peuvent détruir les murs plus vite"
 }
 
 u_ArabWall_descr
 {
-	"In Vanilla, arabic swordsmen destroy walls slower than any other melee unit. &
-With this option, the tear down speed against walls is about doubled for them, &
-putting them slightly above Spearmen."
+	"Dans le jeu classic, sont plus lentement en détruisant les murs que tous les autres unités unit. &
+Avec cette option leur vitesse sera un peu plus vite que les lanciers."
 }
 
 u_spearmen
 {
-	"Increased armor of spearmen against ranged units"
+    "augmenter la defense des lanciers contre tous les flèches"
 }
 
 u_spearmen_descr
 {
-	" - Spearmen only die after 5 arrow hits instead of 3
- - Spearmen barely survive one crossbow hit, instead of getting one-shot"
+	" - Lanciers endurent 5 flèches au lieu de 3
+ - Laciers survivent une flèche de l'arbalète tout juste au lieu de mourir immédiatement"
 }
 
 ai_buy
 {
-	"Improved trader usage of the AI lords"
+	"Ameliorer le commerce de l'IA"
 }
 
 ai_buy_descr
 {
-	"In vanilla, some of the new AIs do not use the trading outpost correctly. &
-The following improvements will be carried out with this:
- - Frederick and Marshal buy weapons and armors
- - The Abbot and Emir buy bows
- - Wazir buys apples like Nizar & Emir do"
+	"Dans le jeu classique, quelques adversaires de l'AI utilisent les marchants d'une manière mauvaise &
+On faira donc les améliorations suivantes:
+ - Frederick et Marshal achètent des armes
+ - L'Abbé et l'Émir achètent des arcs
+ - Le Wazir achète des pommes exactement comme Nizar & l'Émir"
 }
 
 ui_error
@@ -57,47 +56,47 @@ ui_error
 
 ui_SearchPath
 {
-	" Please select your installation folder:"
+	" sélectionnez votre annuaire d'installation:"
 }
 
 ui_search
 {
-	"Browse"
+	"Rechercher"
 }
 
 ui_continue
 {
-	"Continue"
+	"continuer"
 }
 
 ui_wrongpath
 {
-	"Stronghold Crusader could not be found in the specified path!"
+	"Incapable de trouver Stronghold Crusader!"
 }
 
 ui_back
 {
-	"Back"
+	"retour"
 }
 
 ui_install
 {
-	"Install"
+	"installer"
 }
 
 ui_finished
 {
-	"Finished"
+	"terminé"
 }
 
 ui_chooseLangTitle
 {
-	"Setup language"
+	"Changer langue"
 }
 
 ui_chooseLang
 {
-	"Please choose a language for this setup from the list below."
+	"Sélectioner votre langue"
 }
 
 ui_accept
@@ -107,43 +106,43 @@ ui_accept
 
 ui_cancel
 {
-	"Cancel"
+	"annuler"
 }
 
 aiv_evrey
 {
-	"Improved AI castles"
+	"château de l'IA améliorer"
 }
 
 aiv_evreyfixed
 {
-	"Evrey's fixed vanilla castles"
+	"Châteaux classiques réparés par Evrey"
 }
 
 aiv_evreyfixed_descr
 {
-	"Fixes bugs of the vanilla AI-Lord castles, like missing houses and guilds &
-or blocked entrances."
+	"bugs corrigés comme trop peu des maisons guildes &
+ou entrées bloquées."
 }
 
 aiv_evreyimproved
 {
-	"Evrey's improved AI castles"
+	"Châteaux améliorées par Evrey"
 }
 
 ui_uninstall
 {
-	"Uninstall"
+	"désinstaller"
 }
 
 ui_uninstalldone
 {
-	"Uninstall completed."
+	"désinstaller fini."
 }
 
 ai_recruitinterval
 {
-	"Increased recruitment speed"
+	"Augmenter vitesse de  recrutement"
 }
 
 ai_recruitinterval_descr
